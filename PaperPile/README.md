@@ -1,8 +1,7 @@
-Installation
+##Screenshot
 
-1) Clone this repo.
-2) Run npm install.
-3) Run react-native start
-4) Run react-native run-android.
 
-If running on a device, run adb reverse tcp:8081 tcp:8081
+##Usage
+- [Setting up React Native for Android](https://facebook.github.io/react-native/docs/android-setup.html#content)
+- [Running app on Android Device](https://facebook.github.io/react-native/docs/running-on-device-android.html#content)
+- [Running app on iOS Device](https://facebook.github.io/react-native/docs/running-on-device-ios.html#content)
